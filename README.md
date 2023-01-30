@@ -1,7 +1,9 @@
 # BMI_CALCULATOR
  Vücut kitle indeksi; ağırlığın boyun karesine bölünmesi formülü ile hesaplanmaktadır. Burada ağırlık kilogram ve boy da metre cinsinden alınmaktadır. VKİ olarak kısaltılmaktadır. Body mass index olarak da bilinmektedir ve BMI da denmektedir. 
- 
- 
+
+#
+![bmi_cal](https://user-images.githubusercontent.com/98910348/215598373-e9519983-e5f5-4159-a2c9-1538f8e155d9.jpg)
+#
 ## SPLASH SCREEN
 ![Screenshot_1659388658](https://user-images.githubusercontent.com/98910348/182248404-b2e432cc-8159-483b-860f-918d71ae8b68.png)
 
